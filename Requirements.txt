@@ -1,0 +1,9 @@
+REQUREIMENTS
+
+pandas
+
+matplotlib
+
+numPy
+
+matplotlib.pyplot
