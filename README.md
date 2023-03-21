@@ -1,36 +1,48 @@
-Exploring the Orchestra Library with Python
+COMPARING BEATLES' MASTERS
 My final project for Spring 2023 Code Louisville, Data Analysis with Python
 
 PROJECT TITLE: 
 
-Exploring the Orchestra Library with Python
+Comparing Beatles' Masters, 2009 and 2015
 
 PROJECT DESCRIPTION:
 
-The aim of this project is to work my school orchestra library in Python. 
+The aim of this project is to use the tools of python to compare different versions of the same song that the Beatles have released in the Digital Streaming era. 
 
-I am the Strings Director at a K—12 Independent School. As our school's Strings program is just getting going, I am building a library of music for the student ensembles to play. As I order and gather music, I enter each new piece into a Google sheet (which I downloaded as a .csv file). 
+In the last two decades, the Beatles have re-released their classic albums and singles several times digitally. Often times, the new release features new "mastering". What is mastering? To quite iZotope software's page:
 
-With all the amazing tools of python, including pandas and Matplotlib, I am able to edit and explore the library in a number of ways. 
+    Mastering is the final polish that turns a finished mix into a release that’s ready for listeners to experience on all devices—from tiny iPhone speakers to massive dance club sound systems.
+
+The Beatles have always been famous for using cutting edge technology in their recordings, and these recent releases are no exception. The new masters are made from the original audio by some of the leading audio professionals working today.
+
+In this project we'll be focusing on two versions of "Strawberry Fields Forever." One is from 2009 and the other is from 2015. Both use the same original audio recorded in 1967. 
+
+One well known trend in audio mastering is that things get progressively louder and louder. Louder tends to sound "better" and more ear-catching (at least on initial listen), so there has long been a temptation to produce louder and louder masters. This has been true at least since the 1960's, if not before. New digital audio technology gives audio engineers even more tools to make the music louder. 
+
+This project will compare the loudness of the two versions of "Strawberry Fields Forever" by looking at the amplitude of the audio files. 
 
 THE DATA
-Each row of data describes one piece of music in the library. Columns have data about the title, composer name, instrumentation, performance history (at the school), and other information. 
+The data we'll import includes two .wav audio files. 
 
 PACKAGES NEEDED:
 pandas
 matplotlib
 numPy
 matplotlib.pyplot
+ipynb
 
 PROJECT FEATURES
-1. Imported data from a .csv file
-2. Cleaned and sorted data using pandas
-3. Analyzed 5 aspects of the data using pandas
-4. Visualized the data in 2 bar charts with Matplotlib
-5. Interpreted the data in the Jupiter Notebook file
+1. Imported data from a .wav files.
+2. Manipulated data: cleaned it up and made it usable.
+3. Analyzed aspects of the data including song length, lenghth of silence before and after music, and the mean amplitude of each version.
+4. Visualized the data in 2 plots with matplotlib.
+5. Interpreted the data in the Jupiter Notebook file.
 
-SPECIAL INSTRUCTIONS:
-N/A
+INSTRUCTIONS:
+1. Open the folder ("Final_Project").
+2. Open the "ComparingAudio.ipynb" file as a Jupyter Notebook.
+3. Press "Run All" if the code hasn't been run yet.
+4. Read and scroll down to see the coding steps, visualization, and interpretation. 
 
 
 
