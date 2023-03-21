@@ -1,0 +1,11 @@
+REQUREIMENTS
+
+pandas
+
+matplotlib
+
+numPy
+
+matplotlib.pyplot
+
+ipynb
