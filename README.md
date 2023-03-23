@@ -31,12 +31,9 @@ PACKAGES NEEDED:
 pandas
 matplotlib
 numPy
-matplotlib.pyplot
 ipynb
 pydub
-pydub Audiosegment
-librosa
-librosa.display
+librosas
 
 PROJECT FEATURES
 1. Imported data from a .wav files.
