@@ -1,11 +1,13 @@
 Exploring the Orchestra Library with Python
-My final project for Spring 2023 Code Louisville, Data Analysis with Python
+My first try (but not final) project for Spring 2023 Code Louisville, Data Analysis with Python
 
 PROJECT TITLE: 
 
 Exploring the Orchestra Library with Python
 
 PROJECT DESCRIPTION:
+
+*****Note, this is NOT my final project. Rather, this was a first try at a final project to see if I could do a Minimum Viable Product for the project from start to finish. I did complete this MVP, but then moved on to the project titled, "Comparing Beatles' Masters." Please make sure to view that one.*****
 
 The aim of this project is to work my school orchestra library in Python. 
 

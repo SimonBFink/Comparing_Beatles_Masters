@@ -9,3 +9,16 @@ numPy
 matplotlib.pyplot
 
 ipynb
+
+pydub
+
+pydub Audiosegment
+
+librosa
+
+librosa.display
+
+
+
+
+
