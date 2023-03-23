@@ -21,6 +21,8 @@ One well known trend in audio mastering is that things get progressively louder 
 
 This project will compare the loudness of the two versions of "Strawberry Fields Forever" by looking at the amplitude of the audio files. 
 
+There is also an Addendum at the end of the project that explores the famous "splice point" of the song. The original mix of the song combinbined two different recordings of it played in different keys and tempos. Here I explore whether we can see evidence of the difference between the two recordings using a spectrogram. 
+
 THE DATA
 The data we'll import includes two .wav audio files. 
 
@@ -30,6 +32,10 @@ matplotlib
 numPy
 matplotlib.pyplot
 ipynb
+pydub
+pydub Audiosegment
+librosa
+librosa.display
 
 PROJECT FEATURES
 1. Imported data from a .wav files.
